@@ -1,0 +1,173 @@
+---
+article_id: KAY-01-A04
+title: "Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan"
+slug: "kayu-gubal-dan-kayu-teras"
+description: "Explain biological role and why color, permeability, moisture, and natural durability can differ within one tree"
+status: outline
+publication_date: "2025-06-02"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: KAY-01
+primary_intent: "Compare sapwood and heartwood"
+reader_community: "Kayu.co.id"
+reader_address: "Teman Kayu.co.id"
+final_route: "/artikel/kayu-gubal-dan-kayu-teras.html"
+technical_review: required
+sources:
+  - "https://research.fs.usda.gov/fpl/wood-handbook"
+  - "https://research.fs.usda.gov/treesearch/62246"
+  - "https://research.fs.usda.gov/treesearch/37421"
+  - "https://www.iso.org/ics/79.060.01/x/"
+  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key="
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan”
+- **Reader and situation:** Buyer assessing mixed-color boards
+- **Reader outcome:** Explain biological role and why color, permeability, moisture, and natural durability can differ within one tree
+- **Primary intent:** Compare sapwood and heartwood
+- **Reader community:** `Kayu.co.id`
+- **Primary friendly address:** `Teman Kayu.co.id`
+- **Natural variants:** `Sobat Kayu.co.id` and `Kawan Kayu.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Excludes treatment selection owned by KAY-09-A04 and species-specific claims owned by KAY-02-A03
+- **Final public route:** `/artikel/kayu-gubal-dan-kayu-teras.html`
+- **Appointed CMS date:** `2025-06-02` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Teman Kayu.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Teman Kayu.co.id`, `Sobat Kayu.co.id`, or `Kawan Kayu.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md) and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Prevent research reuse from changing the approved catalog or confusing educational and commercial ownership.
+- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
+- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+
+### KR-02
+
+- **Original sources:** [USDA Forest Products Laboratory Wood Handbook, revised 2021](https://research.fs.usda.gov/fpl/wood-handbook) and [Chapter 2 — commercially important woods](https://research.fs.usda.gov/treesearch/62246).
+- **Purpose for this article:** Ground anatomy, vocabulary, species/property, movement, machining, and failure explanations.
+- **Safe grounded facts:** Species name alone does not establish an individual piece's grade, moisture, defects, strength, durability, machining response, or project suitability.
+- **Limits:** U.S. species tables and construction practice are not Indonesian design values. Use Indonesian/local evidence and actual specimens under G-02/G-06.
+
+### KR-09
+
+- **Original sources:** [USDA wood-based composite overview](https://research.fs.usda.gov/treesearch/37421), [ISO wood-based-panel catalogue](https://www.iso.org/ics/79.060.01/x/), and [BSN wood-structure catalogue](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=91.080&key=).
+- **Purpose for this article:** Correct taxonomy among plywood, particleboard, MDF/fibreboard, OSB, barecore, blockboard, FJL, LVL, glulam, CLT, and non-wood composites.
+- **Safe grounded facts:** A panel's thickness or appearance cannot prove bond durability, strength, fire, emission, moisture, fastener, or installed-system behavior.
+- **Limits:** Confirm the exact product family and applicable current standard/test report under G-01/G-04/G-06.
+
+## Evidence gates
+
+- **TOPIC-GATE:** G-01, G-02, G-04
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/terms-and-conditions/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `KAY-01-A02` → `/artikel/istilah-kayu-timber-lumber-papan-balok.html` — Kayu, Timber, Lumber, Papan, dan Balok: Kamus Istilah yang Tidak Tertukar
+- `KAY-01-A03` → `/artikel/anatomi-makro-kayu.html` — Serat, Pori, Lingkar Tumbuh, dan Jari-Jari Kayu: Atlas Anatomi Makro
+- `KAY-01-A05` → `/artikel/kayu-reaksi-dan-kayu-juvenil.html` — Kayu Reaksi dan Kayu Juvenil: Mengapa Papan Bisa Berubah Setelah Dipotong
+- `KAY-01-A06` → `/artikel/evolusi-kayu-solid-ke-rekayasa.html` — Dari Kayu Solid ke Kayu Rekayasa: Mengapa Produk Berlapis Berkembang
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Masalah keputusan yang sebenarnya
+
+- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
+- **Tie back to this article:** Keep the explanation specific to “Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Bedakan objek sebelum membandingkan
+
+- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
+- **Tie back to this article:** Keep the explanation specific to “Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kriteria perbandingan yang relevan
+
+- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
+- **Tie back to this article:** Keep the explanation specific to “Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kapan masing-masing pilihan masuk akal
+
+- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
+- **Tie back to this article:** Keep the explanation specific to “Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kesalahan perbandingan yang sering terjadi
+
+- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
+- **Tie back to this article:** Keep the explanation specific to “Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Bukti yang perlu diminta sebelum memilih
+
+- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
+- **Tie back to this article:** Keep the explanation specific to “Kayu Gubal dan Kayu Teras: Perbedaan Fungsi, Warna, dan Keawetan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Teman Kayu.co.id!` and uses friendly `Kayu.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
